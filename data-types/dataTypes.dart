@@ -1,4 +1,4 @@
-// Dart program to illustrate data types
+// Dart program to illustrate Dart data types
 
 void main() {
   // int data type
