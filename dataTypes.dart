@@ -17,7 +17,7 @@ void main() {
   List hobby = ["Physical Fitness", "Skatting"];
   print('Hobbies: $hobby');
 
-  // Map data type
+  // Map data type including a boolean
   Map person = {'cohort': 3, 'learning': 'Dart', 'isMarried': false};
   print('Person: $person');
 }
